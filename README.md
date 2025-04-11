@@ -20,9 +20,9 @@ Ce projet utilise les technologies suivantes :
 ## Auteurs
 
 Ce projet a été développé par :
-- **Esteban**
-- **Mathis**
-- **Robin**
+- [**Esteban Russias**](https://github.com/EstebanRussias)
+- [**Mathis Gamin**](https://github.com/)
+- [**Robin Gillot**](https://github.com/RoriLaLoutre)
 
 ## Captures d'écran
 
