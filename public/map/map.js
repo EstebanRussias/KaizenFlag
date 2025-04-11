@@ -47,34 +47,61 @@ export function createMurs(scene, world , hauteur) {
       { x: 7.5, y: 0, z: -10, w: 0.5, d: 3 },
 
 
-      { x: -5.3, y: 10, z: -7.25, w: 2, d: 2 },
-      { x: -11, y: 15, z: -4, w: 2, d: 2 },
-      { x: -2, y: 18, z: -11, w: 2, d: 2 },
-      { x: 2, y: 20, z: 11, w: 2, d: 2 },
-      { x: -3, y: 23, z: 5, w: 2, d: 2 },
-      { x: 3, y: 25, z: -5, w: 2, d: 2 },
-      { x: -7.5, y: 28, z: -10, w: 2, d: 2 },
-      { x: -10.5, y: 35, z: -7.25, w: 2, d: 2 },
-      { x: -7.5, y: 45, z: 10.5, w: 2, d: 2 },
-      { x: -10.5, y: 50, z: 7.25, w: 2, d: 2 },
-      { x: 7.5, y: 55, z: -10.5, w: 2, d: 2 },
-      { x: 10.5, y: 60, z: -7.25, w: 2, d: 2 },
-      { x: 7.5, y: 70, z: 10.5, w: 2, d: 2 },
-      { x: 10.5, y: 75, z: 7.25, w: 2, d: 2 },
-      { x: -5.3, y: 80, z: 7.25, w: 2, d: 2 },
-      { x: -11, y: 85, z: 4, w: 2, d: 2 },
-      { x: -2, y: 90, z: 11, w: 2, d: 2 },
-      { x: -3, y: 95, z: -5, w: 2, d: 2 },
-      { x: -7.5, y: 100, z: -10.5, w: 2, d: 2 },
-      { x: -10.5, y: 105, z: -7.25, w: 2, d: 2 },
-      { x: 7.5, y: 110, z: 10.5, w: 2, d: 2 },
-      { x: 10.5, y: 115, z: 7.25, w: 2, d: 2 },
-      { x: -5.3, y: 120, z: -7.25, w: 2, d: 2 },
-      { x: -11, y: 125, z: -4, w: 2, d: 2 },
-      { x: -2, y: 130, z: -11, w: 2, d: 2 },
-      { x: -3, y: 135, z: -5, w: 2, d: 2 },
-      { x: -7.5, y: 140, z: -10.5, w: 2, d: 2 },
-      { x: -10.5, y: 145, z: -7.25, w: 2, d: 2 },
+      
+
+      { x: -12.3, y: 5, z: -17.25, w: 5, d: 6 },
+      { x: 4.5, y: 12, z: -22, w: 7, d: 4 },
+      { x: 18, y: 20, z: 10, w: 6, d: 5 },
+      { x: -7, y: 27, z: 4.5, w: 4, d: 7 },
+      { x: 10.8, y: 32, z: -11, w: 5, d: 6 },
+      { x: -20, y: 38, z: 20, w: 8, d: 4 },
+      { x: 0, y: 44, z: -5, w: 6, d: 5 },
+      { x: -15.5, y: 50, z: -8, w: 7, d: 4 },
+      { x: 23, y: 58, z: 7, w: 4, d: 8 },
+      { x: -2.2, y: 64, z: 15, w: 5, d: 6 },
+      { x: 13.5, y: 70, z: -14, w: 6, d: 5 },
+      { x: -9, y: 76, z: 23.5, w: 7, d: 7 },
+      { x: 6, y: 82, z: 0, w: 4, d: 8 },
+      { x: -22, y: 89, z: -22, w: 6, d: 6 },
+      { x: 11.2, y: 96, z: 18, w: 8, d: 4 },
+      { x: -14, y: 103, z: -19, w: 5, d: 6 },
+      { x: 2, y: 111, z: 8, w: 7, d: 5 },
+      { x: 20, y: 118, z: -6, w: 6, d: 7 },
+      { x: -6.8, y: 126, z: 21, w: 5, d: 8 },
+      { x: 0, y: 134, z: 0, w: 6, d: 6 },
+      { x: 5, y: 142, z: -5, w: 8, d: 4 },
+      { x: -18.5, y: 150, z: 19.3, w: 7, d: 5 },
+      { x: 6.4, y: 158, z: -9.6, w: 6, d: 6 },
+      { x: -11.2, y: 165, z: -15, w: 5, d: 7 },
+      { x: 9, y: 172, z: 12.3, w: 4, d: 8 },
+      { x: -3, y: 180, z: -23.5, w: 6, d: 5 },
+      { x: -24, y: 188, z: 11, w: 5, d: 6 },
+      { x: 14, y: 196, z: 22, w: 8, d: 4 },
+      { x: -19, y: 203, z: -13, w: 7, d: 5 },
+      { x: 21, y: 211, z: 3, w: 4, d: 8 },
+      { x: 0.5, y: 218, z: -17, w: 6, d: 6 },
+      { x: 7.7, y: 225, z: 13, w: 5, d: 7 },
+      { x: -5, y: 233, z: -21, w: 6, d: 6 },
+      { x: -16, y: 241, z: 5.5, w: 7, d: 4 },
+      { x: 25, y: 249, z: -8.4, w: 5, d: 8 },
+      { x: 18.9, y: 257, z: 20, w: 4, d: 6 },
+      { x: -10, y: 265, z: -2.5, w: 6, d: 6 },
+      { x: 3, y: 273, z: 16, w: 5, d: 7 },
+      { x: -7, y: 281, z: -9, w: 4, d: 8 },
+      { x: 12, y: 289, z: 14, w: 7, d: 5 },
+      { x: -25, y: 296, z: -25, w: 6, d: 6 },
+      { x: 8, y: 304, z: 6, w: 5, d: 7 },
+      { x: 0, y: 311, z: 0, w: 4, d: 8 },
+      { x: -13.2, y: 318, z: 19.8, w: 6, d: 6 },
+      { x: 22.6, y: 324, z: -13, w: 5, d: 7 },
+      { x: -17, y: 330, z: 4, w: 8, d: 4 },
+      { x: 15, y: 335, z: 15, w: 6, d: 6 },
+      { x: -8, y: 340, z: -10, w: 7, d: 5 },
+      { x: 1.2, y: 345, z: 8, w: 5, d: 7 },
+      { x: -6.4, y: 350, z: 18, w: 6, d: 6 },
+      { x: -0, y: 345, z: 0, w: 3, d: 3 }
+
+
 
       
     ];
@@ -114,7 +141,7 @@ export function createFlag(scene) {
     const flagGeometry = new THREE.BoxGeometry(0.1, 1, 0.1);
     const flagMaterial = new THREE.MeshStandardMaterial({ color: 0xFF0000 });
     flagMesh = new THREE.Mesh(flagGeometry, flagMaterial);
-    flagMesh.position.set(0, 20, 0); // Position initiale du drapeau
+    flagMesh.position.set(0, 350, 0); // Position initiale du drapeau
     flagMesh.geometry.computeBoundingBox();
     scene.add(flagMesh);
     // Création du sol rouge
@@ -124,7 +151,7 @@ export function createFlag(scene) {
     const groundMaterial = new THREE.MeshStandardMaterial({ color: 0xFF0000 });
     const groundMesh = new THREE.Mesh(groundGeometry, groundMaterial);
     groundMesh.rotation.x = - Math.PI / 2; // Incliner le sol pour qu'il soit horizontal
-    groundMesh.position.set(0, 20, 0); // Position du sol
+    groundMesh.position.set(0, 350, 0); // Position du sol
     scene.add(groundMesh);
   }
    
