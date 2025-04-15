@@ -6,8 +6,20 @@
 Kaizen Flag est un jeu où le joueur doit traverser un parcours pour atteindre le drapeau au sommet. Ce projet a été développé lors d'un hackathon de 4 jours, dans le but de créer une expérience de jeu interactive et immersive, combinant 3D et physique.
 
 ## Accès au Jeu ! 
-Vous pouvez maintenant accéder au jeu en ouvrant votre navigateur à l'adresse suivante :  
-   [www.rr.fr](http://www.rr.fr)
+**Cloner le dépôt GitHub** :
+   ```bash
+   git clone https://github.com/EstebanRussias/KaizenFlag
+   ```
+**Instaler toutes les dependances**:
+   ```bash
+   npm i
+   ``` 
+**Lancer le projet avec la commande**:
+   ```bash
+   node server.js"
+   ```
+**Suivre le lien**:
+[localhost](http://localhost:3000/)
 
 ## Technologies
 
@@ -21,11 +33,8 @@ Ce projet utilise les technologies suivantes :
 
 Ce projet a été développé par :
 - [**Esteban Russias**](https://github.com/EstebanRussias)
-- [**Mathis Gamin**](https://github.com/)
+- [**Mathis Gamin**](https://github.com/Mathisgmn)
 - [**Robin Gillot**](https://github.com/RoriLaLoutre)
 
-## Captures d'écran
-
-![Capture d'écran du jeu](chemin/vers/image.png)
 
 
